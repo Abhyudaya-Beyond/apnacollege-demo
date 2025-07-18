@@ -1,0 +1,3 @@
+[submodule "lucifer"]
+	path = lucifer
+	url = https://github.com/Abhyudaya-Beyond/lucifer.git
